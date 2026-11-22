@@ -1,0 +1,22 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "gotenks",
+    "database": "CLINIC",
+    "specializations": [
+        "General Physician",
+        "Cardiology",
+        "Dermatology",
+        "Neurology",
+        "Orthopedics",
+        "Pediatrics",
+        "Gynecology",
+        "ENT",
+        "Ophthalmology",
+        "Psychiatry",
+        "Dentistry",
+        "Radiology",
+        "Urology",
+        "Oncology"
+    ]
+}
